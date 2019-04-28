@@ -133,7 +133,8 @@ I choose the Random Forest model because is that with the best accurracy (accura
 
 ```{r valid_test}
 bstValidPred<- predict(bstModFit, quiz)
-bstValidPred
+quizOut<-cbind(Question=seq(1:20), Response = as.character(bstValidPred))
+quizOut
 ```
 
 **Note**: The dataset used in this project is a courtesy of “Ugulino, W.; Cardador, D.; Vega, K.; Velloso, E.; Milidiu, R.; Fuks, H. Wearable Computing: Accelerometers’ Data Classification of Body Postures and Movements”
