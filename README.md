@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
+<<<<<<< HEAD
 You can use the [editor on GitHub](https://github.com/avicens/PracticalMachineLearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+=======
+You can use the [editor on GitHub](https://github.com/avicens/PracticalMachineLearning/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> 192aeb330e1a276889875ede986894ae4425eee7
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
